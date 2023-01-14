@@ -1,0 +1,6 @@
+0.0 Celsius = 273.15 Kelvin 
+0.0 Celsius = 32.0 Fahrenheit 
+0.0 Kelvin = -273.15 Celsius 
+0.0 Kelvin = 32.0 Fahrenheit 
+0.0 Fahrenheit = -32.0 Celsius 
+0.0 Fahrenheit = -32.0 Kelvin 
